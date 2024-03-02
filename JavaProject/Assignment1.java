@@ -1,4 +1,4 @@
-//package Assignment1;
+package JavaProject;
 
 import java.util.Scanner;
 public class Assignment1 {
